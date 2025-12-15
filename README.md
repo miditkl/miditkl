@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miditkl&label=Profile%20views&color=0e75b6&style=flat" alt="miditkl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miditkl" alt="miditkl" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=miditkl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Java & JavaScript**
 
