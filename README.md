@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Midian</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miditkl&label=Profile%20views&color=0e75b6&style=flat" alt="miditkl" /> </p>
-
 - 🌱 I’m currently learning **Java & JavaScript**
 
 <h3 align="left">Connect with me:</h3>
